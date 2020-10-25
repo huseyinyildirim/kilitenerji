@@ -1,0 +1,100 @@
+.cropperWrapper{margin:auto; padding:0;}
+.cropperResize{border: 1px dashed #f00; background:transparent url('blank.gif') center center repeat; cursor:move;}
+.cropperHandle{background-repeat:no-repeat; background-position:center center;}
+.cropperHandle.top{cursor:n-resize; background-image:url('handle-ns.gif');}
+.cropperHandle.bottom{cursor:s-resize; background-image:url('handle-ns.gif');}
+
+.cropperHandle.right{
+	cursor:e-resize;
+	background-image:url('handle-ew.gif');
+}
+
+.cropperHandle.left{
+	cursor:w-resize;
+	background-image:url('handle-ew.gif');
+}
+
+.cropperHandle.top.left{
+	cursor:nw-resize !important;
+	background-image:url('handle-nw.gif') !important;
+}
+
+.cropperHandle.bottom.right{
+	cursor:se-resize !important;
+	background-image:url('handle-nw.gif') !important;
+}
+
+.cropperHandle.top.right{
+	cursor:ne-resize !important;
+	background-image:url('handle-ne.gif') !important;
+}
+
+.cropperHandle.bottom.left{
+	cursor:sw-resize !important;
+	background-image:url('handle-ne.gif') !important;
+}
+
+.cropperMask{
+	background-color:#000;
+	cursor:pointer;
+}
+
+.cropperCoordinates{
+	background-color:#eee;
+	padding:20px 5px 5px;
+	font-family:'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+	font-size:11px;
+	width:auto;
+	border:1px solid #888;
+}
+
+.cropperCoordinates div.topbar{
+	cursor:move;
+	text-align:center;
+	background-color:#fff;
+	color:#ccc;
+	border-bottom:1px solid #ccc;
+}
+
+.cropperCoordinates div.preview{
+	text-align:left;
+	float:left;
+	border:1px solid #f00;
+}
+
+.cropperCoordinates.IE div.preview{
+	width:1%;
+}
+
+.cropperCoordinates label{
+	display:block;
+	float:left;
+	text-align:right;
+	width:20px;
+	padding:0 3px;
+	color:#f00;
+	font-family:'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+	font-size:11px;
+}
+
+.cropperCoordinates input{
+	width:20px;
+	padding:0;
+	height:13px;
+	float:left;
+	color:#333;
+	border:1px solid #f00;
+	font-family:'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+	font-size:11px;
+	text-align:center;
+}
+
+.cropperCoordinates p{margin:0; padding:5px 0 0 0; text-align:center; clear:left;}
+.cropperCoordinates button{margin:0 2px; outline:0; font-size:11px; font-family:'Palatino Linotype', 'Book Antiqua', Palatino, serif;}
+
+hr{margin:20px 0;}
+#main{margin:5%; position:relative; overflow:auto; color:#aaa; padding:20px; border:1px solid #888; background-color:#000; text-align:center;}
+#resize_coords{width:300px;}
+#previewExample3{margin:10px;}
+.yellowSelection{border: 2px dotted #FFB82F;}
+.blueMask{background-color:#00f; cursor:pointer;}

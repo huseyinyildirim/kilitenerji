@@ -1,0 +1,49 @@
+﻿body {background:#AC1C01; font-family: 'Trebuchet MS'; color: #444; font-size: 13px;}
+
+a {color:#666; text-decoration:none;}
+a:hover {text-decoration:underline;}
+
+.cerceve {background:#FFF; width:960px; margin:auto; overflow:hidden;}
+
+.cerceve .logo {background:#AC1C01; padding:10px 0;}
+.cerceve .iccerceve {background:#FFF; padding:10px; overflow:hidden;}
+
+/* Ana menü */
+.cerceve .iccerceve .menu {clear:left; overflow:hidden;}
+.cerceve .iccerceve .menu ul {list-style:none;}
+.cerceve .iccerceve .menu ul li {float:left; padding:20px 10px 10px 10px; margin-right:5px; border-bottom:2px solid #AC1C01;}
+.cerceve .iccerceve .menu ul li h8 {font-size:18px;}
+.cerceve .iccerceve .menu ul li h8 a {color:#AC1C01; text-decoration:none;}
+.cerceve .iccerceve .menu ul li:hover {background:#EFEFEF; border-bottom:2px solid #CCC;}
+
+/* Manşet */
+.cerceve .iccerceve .manset {clear:left; overflow:hidden; margin:10px 0;}
+
+/* İçerik */
+.cerceve .iccerceve .icerik {clear:left; overflow:hidden;}
+.cerceve .iccerceve .icerik .sol {float:left; width:250px; margin-right:10px;}
+.cerceve .iccerceve .icerik .sag {float:left; width:680px;}
+.cerceve .iccerceve .icerik .sag .metin {clear:left;}
+.cerceve .iccerceve .icerik .sag .metin h2 {font-size:18px; padding:10px 0; border-bottom:1px dotted #CCC;}
+.cerceve .iccerceve .icerik .sag .metin div {margin-top:10px;}
+.cerceve .iccerceve .icerik .sag .metin div a {color:#AC1C01; text-decoration:none;}
+.cerceve .iccerceve .icerik .sag .metin div a:hover {text-decoration:underline;}
+
+/* Blok */
+.cerceve .iccerceve .icerik .sol .blok {border-top:5px solid #CCC; background:#E7EAEF; padding:10px; clear:left;}
+.cerceve .iccerceve .icerik .sol .blok h5 {font-size:16px; color:#AC1C01; margin:10px 0;}
+.cerceve .iccerceve .icerik .sol .blok div {margin-top:10px;}
+.cerceve .iccerceve .icerik .sol .blok div ul {list-style:none;}
+.cerceve .iccerceve .icerik .sol .blok div ul li {padding-top:5px;}
+.cerceve .iccerceve .icerik .sol .blok div ul li a {color:#666; text-decoration:none;}
+.cerceve .iccerceve .icerik .sol .blok div ul li a:hover {text-decoration:underline;}
+
+/* Alt */
+.cerceve .alt {background:#FFF; border-top:10px solid #AC1C01; border-bottom:10px solid #AC1C01; padding:10px; overflow:hidden; clear:left;}
+.cerceve .alt .sol {float:left; color:#CCC; font-size:11px;}
+.cerceve .alt .sol a {color:#666;}
+.cerceve .alt .sol a:hover {text-decoration:none; color:#AC1C01;}
+.cerceve .alt .sag {float:right;}
+
+/* Yardımcı */
+.y10 {height:10px;}

@@ -1,0 +1,7 @@
+﻿.usual {margin:auto;}
+.usual li {list-style:none; float:left; }
+.usual ul a {display:block; padding:6px 10px; text-decoration:none!important; margin:0 1px 0 0; margin-left:0; background:#EEE;}
+.usual ul a:hover {background:#CDCDCD;}
+.usual ul a.selected {margin-bottom:0; color:#000; background:#CDCDCD; cursor:default;}
+.usual .tablar {padding:10px 10px 8px 10px; padding-top:10px; margin-top:-15px; clear:left; border:1px solid #CDCDCD;}
+.usual .tablar a {font-weight:bold;}

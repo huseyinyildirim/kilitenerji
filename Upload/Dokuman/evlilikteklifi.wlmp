@@ -1,0 +1,1085 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="evlilikteklifi" themeId="0" version="65538" templateID="SimpleProjectTemplate">
+  <MediaItems>
+    <MediaItem id="51" filePath="D:\Belgeler\snowdrop\Yeni klasör\02.jpg" arWidth="1015" arHeight="865" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="17" filePath="D:\Belgeler\snowdrop\Yeni klasör\IMG_1796.JPG" arWidth="256" arHeight="192" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="52" filePath="D:\Belgeler\snowdrop\IMG_1759.JPG" arWidth="1235" arHeight="2282" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="18" filePath="D:\Belgeler\snowdrop\Yeni klasör\IMG_1815.JPG" arWidth="192" arHeight="256" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="1" filePath="D:\Belgeler\snowdrop\Yeni klasör\Fotoğraf0060.jpg" arWidth="256" arHeight="192" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="36" filePath="D:\Belgeler\snowdrop\Yeni klasör\IMG_2010.JPG" arWidth="256" arHeight="192" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="2" filePath="D:\Belgeler\snowdrop\Yeni klasör\IMG_0614.JPG" arWidth="3072" arHeight="2304" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="53" filePath="D:\Belgeler\snowdrop\IMG_1866.JPG" arWidth="3072" arHeight="2304" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="37" filePath="D:\Belgeler\snowdrop\Yeni klasör\IMG_2020.JPG" arWidth="192" arHeight="256" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="38" filePath="D:\Belgeler\snowdrop\Yeni klasör\IMG_2021.JPG" arWidth="192" arHeight="256" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="4" filePath="D:\Belgeler\snowdrop\Yeni klasör\IMG_1481.JPG" arWidth="256" arHeight="192" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="22" filePath="D:\Belgeler\snowdrop\Yeni klasör\IMG_1851.JPG" arWidth="256" arHeight="192" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="5" filePath="D:\Belgeler\snowdrop\Yeni klasör\IMG_1742.JPG" arWidth="256" arHeight="192" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="40" filePath="D:\Belgeler\snowdrop\Yeni klasör\IMG_2023.JPG" arWidth="192" arHeight="256" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="6" filePath="D:\Belgeler\snowdrop\Yeni klasör\IMG_1744.JPG" arWidth="256" arHeight="192" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="41" filePath="D:\Belgeler\snowdrop\Yeni klasör\IMG_2034.JPG" arWidth="256" arHeight="192" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="7" filePath="D:\Belgeler\snowdrop\Yeni klasör\IMG_1748.JPG" arWidth="256" arHeight="192" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="42" filePath="D:\Belgeler\snowdrop\Yeni klasör\IMG_2045.JPG" arWidth="192" arHeight="256" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="25" filePath="D:\Belgeler\snowdrop\Yeni klasör\IMG_1895.JPG" arWidth="2304" arHeight="3072" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="8" filePath="D:\Belgeler\snowdrop\Yeni klasör\IMG_1749.JPG" arWidth="192" arHeight="256" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="43" filePath="D:\Belgeler\snowdrop\Yeni klasör\IMG_2061.JPG" arWidth="192" arHeight="256" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="26" filePath="D:\Belgeler\snowdrop\Yeni klasör\IMG_1957.JPG" arWidth="256" arHeight="192" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="9" filePath="D:\Belgeler\snowdrop\Yeni klasör\IMG_1750.JPG" arWidth="256" arHeight="192" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="44" filePath="D:\Belgeler\snowdrop\Yeni klasör\IMG_2069.JPG" arWidth="192" arHeight="256" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="27" filePath="D:\Belgeler\snowdrop\Yeni klasör\IMG_1961.JPG" arWidth="256" arHeight="192" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="10" filePath="D:\Belgeler\snowdrop\Yeni klasör\IMG_1757.JPG" arWidth="192" arHeight="256" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="28" filePath="D:\Belgeler\snowdrop\Yeni klasör\IMG_1962.JPG" arWidth="256" arHeight="192" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="11" filePath="D:\Belgeler\snowdrop\Yeni klasör\IMG_1759.JPG" arWidth="139" arHeight="256" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="46" filePath="D:\Belgeler\snowdrop\Yeni klasör\IMG_2088.JPG" arWidth="256" arHeight="192" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="29" filePath="D:\Belgeler\snowdrop\Yeni klasör\IMG_1972.JPG" arWidth="256" arHeight="192" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="12" filePath="D:\Belgeler\snowdrop\Yeni klasör\IMG_1766.JPG" arWidth="192" arHeight="256" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="13" filePath="D:\Belgeler\snowdrop\Yeni klasör\IMG_1768.JPG" arWidth="192" arHeight="256" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="48" filePath="D:\Belgeler\snowdrop\Yeni klasör\IMG_2154.JPG" arWidth="256" arHeight="192" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="14" filePath="D:\Belgeler\snowdrop\Yeni klasör\IMG_1776.JPG" arWidth="2304" arHeight="3072" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="49" filePath="D:\Müzik\Yerli\Ya Sonra Film Müzikleri\02. Özcan Deniz - Hayat Arkadaşım.mp3" arWidth="0" arHeight="0" duration="256.36570829999999" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="15" filePath="D:\Belgeler\snowdrop\Yeni klasör\IMG_1780.JPG" arWidth="256" arHeight="192" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="50" filePath="D:\Belgeler\snowdrop\Yeni klasör\01.jpg" arWidth="604" arHeight="865" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="33" filePath="D:\Belgeler\snowdrop\Yeni klasör\IMG_1989.JPG" arWidth="192" arHeight="256" duration="0" songTitle="" songArtist="" songAlbum="" />
+  </MediaItems>
+  <Extents>
+    <AudioClip extentID="53" gapBefore="0" mediaItemID="49" inTime="0" outTime="0" speed="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyFloat Name="Volume" Value="0.65098041296005249" />
+      </BoundProperties>
+    </AudioClip>
+    <ImageClip extentID="54" gapBefore="0" mediaItemID="50" duration="7">
+      <Effects />
+      <Transitions>
+        <ShapeEffect effectTemplateID="CrossfadeTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="55" gapBefore="0" mediaItemID="51" duration="7">
+      <Effects />
+      <Transitions>
+        <ShaderEffect effectTemplateID="HeartTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShaderEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="5" gapBefore="0" mediaItemID="1" duration="7">
+      <Effects />
+      <Transitions>
+        <ShaderEffect effectTemplateID="BowTieHorizontalTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShaderEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="6" gapBefore="0" mediaItemID="2" duration="7">
+      <Effects />
+      <Transitions>
+        <ShaderEffect effectTemplateID="BowTieVerticalTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShaderEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="7" gapBefore="0" duration="27.5">
+      <Effects>
+        <TextEffect effectTemplateID="TextEffectCinematicCaption1Template" TextScriptId="12">
+          <BoundProperties>
+            <BoundPropertyBool Name="automatic" Value="false" />
+            <BoundPropertyFloatSet Name="color">
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyStringSet Name="family">
+              <BoundPropertyStringElement Value="Trebuchet MS" />
+            </BoundPropertyStringSet>
+            <BoundPropertyBool Name="horizontal" Value="true" />
+            <BoundPropertyStringSet Name="justify">
+              <BoundPropertyStringElement Value="MIDDLE" />
+            </BoundPropertyStringSet>
+            <BoundPropertyFloatSet Name="length" />
+            <BoundPropertyFloat Name="maxExtent" Value="0" />
+            <BoundPropertyFloatSet Name="position">
+              <BoundPropertyFloatElement Value="0" />
+              <BoundPropertyFloatElement Value="-1.6744184494018555" />
+              <BoundPropertyFloatElement Value="0.02500000037252903" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyFloat Name="size" Value="0.40000000596046448" />
+            <BoundPropertyStringSet Name="string">
+              <BoundPropertyStringElement Value="Hayat mücadelesinde heyecanımı kaybettim" />
+              <BoundPropertyStringElement Value="Heyecanım oldun tüm bedenimi sımsıkı sardın" />
+            </BoundPropertyStringSet>
+            <BoundPropertyString Name="style" Value="Bold" />
+            <BoundPropertyFloat Name="transparency" Value="0" />
+          </BoundProperties>
+        </TextEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0.75" />
+          <BoundPropertyFloatElement Value="1" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="1" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="8" gapBefore="0" mediaItemID="4" duration="7">
+      <Effects />
+      <Transitions>
+        <ShapeEffect effectTemplateID="CrossfadeTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="9" gapBefore="0" mediaItemID="5" duration="7">
+      <Effects />
+      <Transitions>
+        <ShaderEffect effectTemplateID="DiagonalBoxOutTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShaderEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="10" gapBefore="0" mediaItemID="6" duration="7">
+      <Effects />
+      <Transitions>
+        <ShaderEffect effectTemplateID="DiagonalCrossOutTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShaderEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="11" gapBefore="0" mediaItemID="7" duration="7">
+      <Effects />
+      <Transitions>
+        <ShaderEffect effectTemplateID="DiagonalDownRightTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShaderEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="12" gapBefore="0" mediaItemID="8" duration="7">
+      <Effects />
+      <Transitions>
+        <ShaderEffect effectTemplateID="FilledVDownTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShaderEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="13" gapBefore="0" mediaItemID="9" duration="7">
+      <Effects />
+      <Transitions>
+        <ShaderEffect effectTemplateID="FilledVLeftTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShaderEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="14" gapBefore="0" mediaItemID="10" duration="7">
+      <Effects />
+      <Transitions>
+        <ShaderEffect effectTemplateID="BarsHorizontalTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShaderEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="15" gapBefore="0" mediaItemID="11" duration="7">
+      <Effects />
+      <Transitions>
+        <ShapeEffect effectTemplateID="SlideDownTogetherTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="68" gapBefore="0" duration="27.5">
+      <Effects>
+        <TextEffect effectTemplateID="TextEffectCinematicCaption1Template" TextScriptId="12">
+          <BoundProperties>
+            <BoundPropertyBool Name="automatic" Value="false" />
+            <BoundPropertyFloatSet Name="color">
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyStringSet Name="family">
+              <BoundPropertyStringElement Value="Trebuchet MS" />
+            </BoundPropertyStringSet>
+            <BoundPropertyBool Name="horizontal" Value="true" />
+            <BoundPropertyStringSet Name="justify">
+              <BoundPropertyStringElement Value="MIDDLE" />
+            </BoundPropertyStringSet>
+            <BoundPropertyFloatSet Name="length" />
+            <BoundPropertyFloat Name="maxExtent" Value="0" />
+            <BoundPropertyFloatSet Name="position">
+              <BoundPropertyFloatElement Value="0" />
+              <BoundPropertyFloatElement Value="-1.6744184494018555" />
+              <BoundPropertyFloatElement Value="0.02500000037252903" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyFloat Name="size" Value="0.40000000596046448" />
+            <BoundPropertyStringSet Name="string">
+              <BoundPropertyStringElement Value="Senden önce hayatıma önem vermezdim" />
+              <BoundPropertyStringElement Value="Beni çektin çıkardın hayatıma hayat kattın" />
+            </BoundPropertyStringSet>
+            <BoundPropertyString Name="style" Value="Bold" />
+            <BoundPropertyFloat Name="transparency" Value="0" />
+          </BoundProperties>
+        </TextEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0.75" />
+          <BoundPropertyFloatElement Value="1" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="1" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="16" gapBefore="0" mediaItemID="12" duration="7">
+      <Effects />
+      <Transitions>
+        <ShaderEffect effectTemplateID="DissolveRoughTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShaderEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="69" gapBefore="0" mediaItemID="51" duration="7">
+      <Effects />
+      <Transitions>
+        <ShaderEffect effectTemplateID="HeartTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShaderEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="70" gapBefore="0" mediaItemID="51" duration="7">
+      <Effects />
+      <Transitions>
+        <ShaderEffect effectTemplateID="HeartTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShaderEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="17" gapBefore="0" mediaItemID="13" duration="7">
+      <Effects />
+      <Transitions>
+        <ShaderEffect effectTemplateID="StarsTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShaderEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="71" gapBefore="0" mediaItemID="51" duration="7">
+      <Effects />
+      <Transitions>
+        <ShaderEffect effectTemplateID="HeartTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShaderEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="18" gapBefore="0" mediaItemID="14" duration="7">
+      <Effects />
+      <Transitions>
+        <ShapeEffect effectTemplateID="PixelateTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="72" gapBefore="0" mediaItemID="51" duration="7">
+      <Effects />
+      <Transitions>
+        <ShaderEffect effectTemplateID="HeartTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShaderEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="19" gapBefore="0" mediaItemID="15" duration="7">
+      <Effects />
+      <Transitions>
+        <ShaderEffect effectTemplateID="CheckerboardTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShaderEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="73" gapBefore="0" mediaItemID="51" duration="7">
+      <Effects />
+      <Transitions>
+        <ShaderEffect effectTemplateID="HeartTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShaderEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="20" gapBefore="0" duration="27.5">
+      <Effects>
+        <TextEffect effectTemplateID="TextEffectCinematicCaption1Template" TextScriptId="12">
+          <BoundProperties>
+            <BoundPropertyBool Name="automatic" Value="false" />
+            <BoundPropertyFloatSet Name="color">
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyStringSet Name="family">
+              <BoundPropertyStringElement Value="Trebuchet MS" />
+            </BoundPropertyStringSet>
+            <BoundPropertyBool Name="horizontal" Value="true" />
+            <BoundPropertyStringSet Name="justify">
+              <BoundPropertyStringElement Value="MIDDLE" />
+            </BoundPropertyStringSet>
+            <BoundPropertyFloatSet Name="length" />
+            <BoundPropertyFloat Name="maxExtent" Value="0" />
+            <BoundPropertyFloatSet Name="position">
+              <BoundPropertyFloatElement Value="0" />
+              <BoundPropertyFloatElement Value="-1.6744184494018555" />
+              <BoundPropertyFloatElement Value="0.02500000037252903" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyFloat Name="size" Value="0.40000000596046448" />
+            <BoundPropertyStringSet Name="string">
+              <BoundPropertyStringElement Value="26 yıl boşa geçti gitti ömrümden" />
+              <BoundPropertyStringElement Value="Sen geldin ömrümü, kaderimi anladım" />
+            </BoundPropertyStringSet>
+            <BoundPropertyString Name="style" Value="Bold" />
+            <BoundPropertyFloat Name="transparency" Value="0" />
+          </BoundProperties>
+        </TextEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0.75" />
+          <BoundPropertyFloatElement Value="1" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="1" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="74" gapBefore="0" mediaItemID="51" duration="7">
+      <Effects />
+      <Transitions>
+        <ShaderEffect effectTemplateID="HeartTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShaderEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="21" gapBefore="0" mediaItemID="17" duration="7">
+      <Effects />
+      <Transitions>
+        <ShaderEffect effectTemplateID="CircleTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShaderEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="75" gapBefore="0" mediaItemID="51" duration="7">
+      <Effects />
+      <Transitions>
+        <ShaderEffect effectTemplateID="HeartTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShaderEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="22" gapBefore="0" mediaItemID="18" duration="7">
+      <Effects />
+      <Transitions>
+        <ShaderEffect effectTemplateID="DiamondTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShaderEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="76" gapBefore="0" mediaItemID="51" duration="7">
+      <Effects />
+      <Transitions>
+        <ShaderEffect effectTemplateID="HeartTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShaderEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="23" gapBefore="0" duration="27.5">
+      <Effects>
+        <TextEffect effectTemplateID="TextEffectCinematicCaption1Template" TextScriptId="12">
+          <BoundProperties>
+            <BoundPropertyBool Name="automatic" Value="false" />
+            <BoundPropertyFloatSet Name="color">
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyStringSet Name="family">
+              <BoundPropertyStringElement Value="Trebuchet MS" />
+            </BoundPropertyStringSet>
+            <BoundPropertyBool Name="horizontal" Value="true" />
+            <BoundPropertyStringSet Name="justify">
+              <BoundPropertyStringElement Value="MIDDLE" />
+            </BoundPropertyStringSet>
+            <BoundPropertyFloatSet Name="length" />
+            <BoundPropertyFloat Name="maxExtent" Value="0" />
+            <BoundPropertyFloatSet Name="position">
+              <BoundPropertyFloatElement Value="0" />
+              <BoundPropertyFloatElement Value="-1.6744184494018555" />
+              <BoundPropertyFloatElement Value="0.02500000037252903" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyFloat Name="size" Value="0.40000000596046448" />
+            <BoundPropertyStringSet Name="string">
+              <BoundPropertyStringElement Value="Bazen darıldın, bazen kızdın çok bana" />
+              <BoundPropertyStringElement Value="Ama yinede içimizdeki sevgi tuttu bizi" />
+            </BoundPropertyStringSet>
+            <BoundPropertyString Name="style" Value="Bold" />
+            <BoundPropertyFloat Name="transparency" Value="0" />
+          </BoundProperties>
+        </TextEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0.75" />
+          <BoundPropertyFloatElement Value="1" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="1" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="77" gapBefore="0" mediaItemID="51" duration="7">
+      <Effects />
+      <Transitions>
+        <ShaderEffect effectTemplateID="HeartTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShaderEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="24" gapBefore="0" duration="27.5">
+      <Effects>
+        <TextEffect effectTemplateID="TextEffectCinematicCaption1Template" TextScriptId="12">
+          <BoundProperties>
+            <BoundPropertyBool Name="automatic" Value="false" />
+            <BoundPropertyFloatSet Name="color">
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyStringSet Name="family">
+              <BoundPropertyStringElement Value="Trebuchet MS" />
+            </BoundPropertyStringSet>
+            <BoundPropertyBool Name="horizontal" Value="true" />
+            <BoundPropertyStringSet Name="justify">
+              <BoundPropertyStringElement Value="MIDDLE" />
+            </BoundPropertyStringSet>
+            <BoundPropertyFloatSet Name="length" />
+            <BoundPropertyFloat Name="maxExtent" Value="0" />
+            <BoundPropertyFloatSet Name="position">
+              <BoundPropertyFloatElement Value="0" />
+              <BoundPropertyFloatElement Value="-1.6744184494018555" />
+              <BoundPropertyFloatElement Value="0.02500000037252903" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyFloat Name="size" Value="0.40000000596046448" />
+            <BoundPropertyStringSet Name="string">
+              <BoundPropertyStringElement Value="Kaybedecek zamanımız yok bitanem" />
+              <BoundPropertyStringElement Value="Biz mutlu olmayı hak ediyoruz" />
+            </BoundPropertyStringSet>
+            <BoundPropertyString Name="style" Value="Bold" />
+            <BoundPropertyFloat Name="transparency" Value="0" />
+          </BoundProperties>
+        </TextEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0.75" />
+          <BoundPropertyFloatElement Value="1" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="1" />
+      </BoundProperties>
+    </TitleClip>
+    <TitleClip extentID="25" gapBefore="3" duration="27.5">
+      <Effects>
+        <TextEffect effectTemplateID="TextEffectCinematicCaption1Template" TextScriptId="12">
+          <BoundProperties>
+            <BoundPropertyBool Name="automatic" Value="false" />
+            <BoundPropertyFloatSet Name="color">
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyStringSet Name="family">
+              <BoundPropertyStringElement Value="Trebuchet MS" />
+            </BoundPropertyStringSet>
+            <BoundPropertyBool Name="horizontal" Value="true" />
+            <BoundPropertyStringSet Name="justify">
+              <BoundPropertyStringElement Value="MIDDLE" />
+            </BoundPropertyStringSet>
+            <BoundPropertyFloatSet Name="length" />
+            <BoundPropertyFloat Name="maxExtent" Value="0" />
+            <BoundPropertyFloatSet Name="position">
+              <BoundPropertyFloatElement Value="0" />
+              <BoundPropertyFloatElement Value="-2.2093024253845215" />
+              <BoundPropertyFloatElement Value="0.02500000037252903" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyFloat Name="size" Value="0.40000000596046448" />
+            <BoundPropertyStringSet Name="string">
+              <BoundPropertyStringElement Value="Benim senden başka kimim var ki?" />
+            </BoundPropertyStringSet>
+            <BoundPropertyString Name="style" Value="Bold" />
+            <BoundPropertyFloat Name="transparency" Value="0" />
+          </BoundProperties>
+        </TextEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0.75" />
+          <BoundPropertyFloatElement Value="1" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="1" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="26" gapBefore="0" mediaItemID="22" duration="7">
+      <Effects />
+      <Transitions>
+        <ShapeEffect effectTemplateID="FlipTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="27" gapBefore="1.5" duration="27.5">
+      <Effects>
+        <TextEffect effectTemplateID="TextEffectCinematicCaption1Template" TextScriptId="12">
+          <BoundProperties>
+            <BoundPropertyBool Name="automatic" Value="false" />
+            <BoundPropertyFloatSet Name="color">
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyStringSet Name="family">
+              <BoundPropertyStringElement Value="Trebuchet MS" />
+            </BoundPropertyStringSet>
+            <BoundPropertyBool Name="horizontal" Value="true" />
+            <BoundPropertyStringSet Name="justify">
+              <BoundPropertyStringElement Value="MIDDLE" />
+            </BoundPropertyStringSet>
+            <BoundPropertyFloatSet Name="length" />
+            <BoundPropertyFloat Name="maxExtent" Value="0" />
+            <BoundPropertyFloatSet Name="position">
+              <BoundPropertyFloatElement Value="0" />
+              <BoundPropertyFloatElement Value="-1.6744184494018555" />
+              <BoundPropertyFloatElement Value="0.02500000037252903" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyFloat Name="size" Value="0.40000000596046448" />
+            <BoundPropertyStringSet Name="string">
+              <BoundPropertyStringElement Value="Aşkımsın, seni çok sevdiğim için" />
+              <BoundPropertyStringElement Value="Hayatımsın, bana anlam kattığın için" />
+            </BoundPropertyStringSet>
+            <BoundPropertyString Name="style" Value="Bold" />
+            <BoundPropertyFloat Name="transparency" Value="0" />
+          </BoundProperties>
+        </TextEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0.75" />
+          <BoundPropertyFloatElement Value="1" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="1" />
+      </BoundProperties>
+    </TitleClip>
+    <TitleClip extentID="28" gapBefore="0" duration="27.5">
+      <Effects>
+        <TextEffect effectTemplateID="TextEffectCinematicCaption1Template" TextScriptId="12">
+          <BoundProperties>
+            <BoundPropertyBool Name="automatic" Value="false" />
+            <BoundPropertyFloatSet Name="color">
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyStringSet Name="family">
+              <BoundPropertyStringElement Value="Trebuchet MS" />
+            </BoundPropertyStringSet>
+            <BoundPropertyBool Name="horizontal" Value="true" />
+            <BoundPropertyStringSet Name="justify">
+              <BoundPropertyStringElement Value="MIDDLE" />
+            </BoundPropertyStringSet>
+            <BoundPropertyFloatSet Name="length" />
+            <BoundPropertyFloat Name="maxExtent" Value="0" />
+            <BoundPropertyFloatSet Name="position">
+              <BoundPropertyFloatElement Value="0" />
+              <BoundPropertyFloatElement Value="-1.6744184494018555" />
+              <BoundPropertyFloatElement Value="0.02500000037252903" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyFloat Name="size" Value="0.40000000596046448" />
+            <BoundPropertyStringSet Name="string">
+              <BoundPropertyStringElement Value="Ömrümsün, sana çok saygı duyduğum için" />
+              <BoundPropertyStringElement Value="Kadınımsın, sana taptığım için" />
+            </BoundPropertyStringSet>
+            <BoundPropertyString Name="style" Value="Bold" />
+            <BoundPropertyFloat Name="transparency" Value="0" />
+          </BoundProperties>
+        </TextEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0.75" />
+          <BoundPropertyFloatElement Value="1" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="1" />
+      </BoundProperties>
+    </TitleClip>
+    <TitleClip extentID="29" gapBefore="0" duration="20">
+      <Effects>
+        <TextEffect effectTemplateID="TextEffectCinematicCaption1Template" TextScriptId="12">
+          <BoundProperties>
+            <BoundPropertyBool Name="automatic" Value="false" />
+            <BoundPropertyFloatSet Name="color">
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyStringSet Name="family">
+              <BoundPropertyStringElement Value="Trebuchet MS" />
+            </BoundPropertyStringSet>
+            <BoundPropertyBool Name="horizontal" Value="true" />
+            <BoundPropertyStringSet Name="justify">
+              <BoundPropertyStringElement Value="MIDDLE" />
+            </BoundPropertyStringSet>
+            <BoundPropertyFloatSet Name="length" />
+            <BoundPropertyFloat Name="maxExtent" Value="0" />
+            <BoundPropertyFloatSet Name="position">
+              <BoundPropertyFloatElement Value="0" />
+              <BoundPropertyFloatElement Value="-1.6744184494018555" />
+              <BoundPropertyFloatElement Value="0.02500000037252903" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyFloat Name="size" Value="0.40000000596046448" />
+            <BoundPropertyStringSet Name="string">
+              <BoundPropertyStringElement Value="Şimdi önümüzde koskoca bir hayat var" />
+              <BoundPropertyStringElement Value="Seni ömrüm boyunca sevicem" />
+            </BoundPropertyStringSet>
+            <BoundPropertyString Name="style" Value="Bold" />
+            <BoundPropertyFloat Name="transparency" Value="0" />
+          </BoundProperties>
+        </TextEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0.75" />
+          <BoundPropertyFloatElement Value="1" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="1" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="83" gapBefore="0" mediaItemID="25" duration="7">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="30" gapBefore="0" mediaItemID="26" duration="7">
+      <Effects />
+      <Transitions>
+        <ShaderEffect effectTemplateID="InsetDownLeftTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShaderEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="84" gapBefore="0" mediaItemID="52" duration="7">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="31" gapBefore="0" mediaItemID="27" duration="7">
+      <Effects />
+      <Transitions>
+        <ShaderEffect effectTemplateID="WhirlwindFromTopTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShaderEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="32" gapBefore="0" mediaItemID="28" duration="7">
+      <Effects />
+      <Transitions>
+        <ShaderEffect effectTemplateID="FilledVLeftTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShaderEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="85" gapBefore="0" mediaItemID="53" duration="7">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="33" gapBefore="0" mediaItemID="29" duration="7">
+      <Effects />
+      <Transitions>
+        <ShaderEffect effectTemplateID="FilledVRightTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShaderEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="34" gapBefore="1.2265625" duration="20">
+      <Effects>
+        <TextEffect effectTemplateID="TextEffectCinematicCaption1Template" TextScriptId="12">
+          <BoundProperties>
+            <BoundPropertyBool Name="automatic" Value="false" />
+            <BoundPropertyFloatSet Name="color">
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyStringSet Name="family">
+              <BoundPropertyStringElement Value="Trebuchet MS" />
+            </BoundPropertyStringSet>
+            <BoundPropertyBool Name="horizontal" Value="true" />
+            <BoundPropertyStringSet Name="justify">
+              <BoundPropertyStringElement Value="MIDDLE" />
+            </BoundPropertyStringSet>
+            <BoundPropertyFloatSet Name="length" />
+            <BoundPropertyFloat Name="maxExtent" Value="0" />
+            <BoundPropertyFloatSet Name="position">
+              <BoundPropertyFloatElement Value="0" />
+              <BoundPropertyFloatElement Value="-2" />
+              <BoundPropertyFloatElement Value="0.02500000037252903" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyFloat Name="size" Value="0.60000002384185791" />
+            <BoundPropertyStringSet Name="string">
+              <BoundPropertyStringElement Value="VE SEVGİLİM SANA İKİ CÜMLE İLE:" />
+            </BoundPropertyStringSet>
+            <BoundPropertyString Name="style" Value="Bold" />
+            <BoundPropertyFloat Name="transparency" Value="0" />
+          </BoundProperties>
+        </TextEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0.75" />
+          <BoundPropertyFloatElement Value="1" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="1" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="37" gapBefore="0" mediaItemID="33" duration="7">
+      <Effects />
+      <Transitions>
+        <ShaderEffect effectTemplateID="ShatterRightTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShaderEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="40" gapBefore="0" mediaItemID="36" duration="7">
+      <Effects />
+      <Transitions>
+        <ShaderEffect effectTemplateID="ShatterInTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShaderEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="41" gapBefore="0" mediaItemID="37" duration="7">
+      <Effects />
+      <Transitions>
+        <ShaderEffect effectTemplateID="FanUpTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShaderEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="42" gapBefore="0" mediaItemID="38" duration="7">
+      <Effects />
+      <Transitions>
+        <ShaderEffect effectTemplateID="RectangleTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShaderEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="44" gapBefore="0" mediaItemID="40" duration="7">
+      <Effects />
+      <Transitions>
+        <ShapeEffect effectTemplateID="ContemporarySlideDownWide1TransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="45" gapBefore="0" mediaItemID="41" duration="7">
+      <Effects />
+      <Transitions>
+        <ShaderEffect effectTemplateID="PageCurlUpRightTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShaderEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="46" gapBefore="0" mediaItemID="42" duration="7">
+      <Effects />
+      <Transitions>
+        <ShaderEffect effectTemplateID="WipeNarrowDownTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShaderEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="47" gapBefore="0" mediaItemID="43" duration="7">
+      <Effects />
+      <Transitions>
+        <ShaderEffect effectTemplateID="PageCurlDownRightTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShaderEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="48" gapBefore="0" mediaItemID="44" duration="7">
+      <Effects />
+      <Transitions>
+        <ShaderEffect effectTemplateID="ZigzagHorizontalTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShaderEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="50" gapBefore="0" mediaItemID="46" duration="7">
+      <Effects />
+      <Transitions>
+        <ShapeEffect effectTemplateID="PixelateTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="52" gapBefore="0" mediaItemID="48" duration="7">
+      <Effects />
+      <Transitions>
+        <ShaderEffect effectTemplateID="StarTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShaderEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ExtentSelector extentID="1" gapBefore="0" primaryTrack="true">
+      <Effects />
+      <Transitions />
+      <BoundProperties />
+      <ExtentRefs>
+        <ExtentRef id="54" />
+        <ExtentRef id="6" />
+        <ExtentRef id="9" />
+        <ExtentRef id="10" />
+        <ExtentRef id="11" />
+        <ExtentRef id="12" />
+        <ExtentRef id="13" />
+        <ExtentRef id="32" />
+        <ExtentRef id="33" />
+        <ExtentRef id="14" />
+        <ExtentRef id="8" />
+        <ExtentRef id="15" />
+        <ExtentRef id="5" />
+        <ExtentRef id="16" />
+        <ExtentRef id="19" />
+        <ExtentRef id="21" />
+        <ExtentRef id="22" />
+        <ExtentRef id="42" />
+        <ExtentRef id="52" />
+        <ExtentRef id="17" />
+        <ExtentRef id="26" />
+        <ExtentRef id="30" />
+        <ExtentRef id="31" />
+        <ExtentRef id="85" />
+        <ExtentRef id="84" />
+        <ExtentRef id="18" />
+        <ExtentRef id="83" />
+        <ExtentRef id="37" />
+        <ExtentRef id="40" />
+        <ExtentRef id="41" />
+        <ExtentRef id="44" />
+        <ExtentRef id="45" />
+        <ExtentRef id="46" />
+        <ExtentRef id="47" />
+        <ExtentRef id="48" />
+        <ExtentRef id="50" />
+        <ExtentRef id="55" />
+        <ExtentRef id="69" />
+        <ExtentRef id="70" />
+        <ExtentRef id="71" />
+        <ExtentRef id="72" />
+        <ExtentRef id="73" />
+        <ExtentRef id="74" />
+        <ExtentRef id="75" />
+        <ExtentRef id="76" />
+        <ExtentRef id="77" />
+      </ExtentRefs>
+    </ExtentSelector>
+    <ExtentSelector extentID="2" gapBefore="0" primaryTrack="false">
+      <Effects />
+      <Transitions />
+      <BoundProperties />
+      <ExtentRefs>
+        <ExtentRef id="53" />
+      </ExtentRefs>
+    </ExtentSelector>
+    <ExtentSelector extentID="3" gapBefore="0" primaryTrack="false">
+      <Effects />
+      <Transitions />
+      <BoundProperties />
+      <ExtentRefs />
+    </ExtentSelector>
+    <ExtentSelector extentID="4" gapBefore="0" primaryTrack="false">
+      <Effects />
+      <Transitions />
+      <BoundProperties />
+      <ExtentRefs>
+        <ExtentRef id="68" />
+        <ExtentRef id="7" />
+        <ExtentRef id="20" />
+        <ExtentRef id="23" />
+        <ExtentRef id="24" />
+        <ExtentRef id="25" />
+        <ExtentRef id="27" />
+        <ExtentRef id="28" />
+        <ExtentRef id="29" />
+        <ExtentRef id="34" />
+      </ExtentRefs>
+    </ExtentSelector>
+  </Extents>
+  <BoundPlaceholders>
+    <BoundPlaceholder placeholderID="SingleExtentView" extentID="0" />
+    <BoundPlaceholder placeholderID="Main" extentID="1" />
+    <BoundPlaceholder placeholderID="SoundTrack" extentID="2" />
+    <BoundPlaceholder placeholderID="Text" extentID="4" />
+    <BoundPlaceholder placeholderID="Narration" extentID="3" />
+  </BoundPlaceholders>
+  <BoundProperties>
+    <BoundPropertyFloatSet Name="AspectRatio">
+      <BoundPropertyFloatElement Value="1.7777776718139648" />
+    </BoundPropertyFloatSet>
+    <BoundPropertyFloat Name="SoundTrackMix" Value="1" />
+  </BoundProperties>
+  <ThemeOperationLog themeID="0">
+    <MonolithicThemeOperations />
+  </ThemeOperationLog>
+</Project>
